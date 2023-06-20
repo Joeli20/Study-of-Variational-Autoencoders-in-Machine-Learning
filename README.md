@@ -1,4 +1,5 @@
 # Study-of-Variational-Autoencoders-in-Machine-Learning
 Bachelor final thesis code
 
-This is the repository that contains the code of my bachelor final thesis in Aerospace Engineering called "Study of Variational Autoencoders in Machine Learning"
+This repository is related to the project: "Study of Variational Autoencoders in Machine Learning",
+developed by Joel Campo and supervised by Alex Ferrer.
